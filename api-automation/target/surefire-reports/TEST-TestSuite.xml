@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="TestSuite" time="3.814" tests="8" errors="0" skipped="2" failures="0">
+  <properties>
+    <property name="java.specification.version" value="24"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Program Files\Maven\apache-maven-3.9.9\boot\plexus-classworlds-2.8.0.jar"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Jakarta"/>
+    <property name="maven.conf" value="C:\Program Files\Maven\apache-maven-3.9.9/conf"/>
+    <property name="java.vm.specification.version" value="24"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-24\bin"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean package"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="maven.home" value="C:\Program Files\Maven\apache-maven-3.9.9"/>
+    <property name="surefire.test.class.path" value="d:\Documents\Me\kelas\QA\bootcamp-batch3-main\bootcamp-batch3-main\target\test-classes;d:\Documents\Me\kelas\QA\bootcamp-batch3-main\bootcamp-batch3-main\target\classes;C:\Users\ASUS\.m2\repository\org\testng\testng\7.11.0\testng-7.11.0.jar;C:\Users\ASUS\.m2\repository\org\slf4j\slf4j-api\2.0.16\slf4j-api-2.0.16.jar;C:\Users\ASUS\.m2\repository\org\jcommander\jcommander\1.83\jcommander-1.83.jar;C:\Users\ASUS\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\ASUS"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2025-04-15"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-24"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="d:\Documents\Me\kelas\QA\bootcamp-batch3-main\bootcamp-batch3-main"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="24.0.1+9-30"/>
+    <property name="user.name" value="ASUS"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\ASUS\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\WINDOWS\TEMP\"/>
+    <property name="java.version" value="24.0.1"/>
+    <property name="user.dir" value="d:\Documents\Me\kelas\QA\bootcamp-batch3-main\bootcamp-batch3-main"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="maven.multiModuleProjectDirectory" value="d:\Documents\Me\kelas\QA\bootcamp-batch3-main\bootcamp-batch3-main"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-24\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\OPOS\Epson3\;C:\Program Files\Maven\apache-maven-3.9.9\bin;C:\Program Files\Java\jdk-24\bin;C:\Users\ASUS\AppData\Local\UniGetUI\Chocolatey\bin;C:\Users\ASUS\AppData\Local\Microsoft\WindowsApps;C:\Users\ASUS\AppData\Local\Programs\Microsoft VS Code\bin;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="24.0.1+9-30"/>
+    <property name="classworlds.conf" value="C:\Program Files\Maven\apache-maven-3.9.9\bin\m2.conf"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="library.jansi.path" value="C:\Program Files\Maven\apache-maven-3.9.9\lib\jansi-native"/>
+    <property name="java.class.version" value="68.0"/>
+  </properties>
+  <testcase name="flackyTest" classname="testng.RetryTest" time="0.0">
+    <skipped message="expected [true] but found [false]"/>
+    <system-out><![CDATA[Setting up the test suite...
+Running before each test...
+Running before the class...
+Running before each test method...
+This is a simple test method.
+Running test 1
+Thread ID: 53 name: TestNG-test-ParallelRegression-1
+Test method executed 1234 with status active
+Retrying test flackyTest for the 1 time.
+]]></system-out>
+    <system-err><![CDATA[SLF4J(W): No SLF4J providers were found.
+SLF4J(W): Defaulting to no-operation (NOP) logger implementation
+SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
+]]></system-err>
+  </testcase>
+  <testcase name="flackyTest" classname="testng.RetryTest" time="0.0">
+    <skipped message="expected [true] but found [false]"/>
+    <system-out><![CDATA[Test method executed 4567 with status inactive
+Running test 2
+Retrying test flackyTest for the 2 time.
+]]></system-out>
+  </testcase>
+  <testcase name="flackyTest" classname="testng.RetryTest" time="0.001">
+    <system-out><![CDATA[Test method executed 1255 with status active
+Running test 3
+]]></system-out>
+  </testcase>
+  <testcase name="testMethod" classname="testng.AssertTest" time="0.011">
+    <system-out><![CDATA[Setting up the test suite...
+Running before each test...
+Running before the class...
+Running before each test method...
+This is a simple test method.
+Running test 1
+Thread ID: 53 name: TestNG-test-ParallelRegression-1
+Test method executed 1234 with status active
+Retrying test flackyTest for the 1 time.
+]]></system-out>
+    <system-err><![CDATA[SLF4J(W): No SLF4J providers were found.
+SLF4J(W): Defaulting to no-operation (NOP) logger implementation
+SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
+]]></system-err>
+  </testcase>
+  <testcase name="testMethod[1234, active](1)" classname="testng.DataProviderTest" time="0.011">
+    <system-out><![CDATA[Setting up the test suite...
+Running before each test...
+Running before the class...
+Running before each test method...
+This is a simple test method.
+Running test 1
+Thread ID: 53 name: TestNG-test-ParallelRegression-1
+Test method executed 1234 with status active
+Retrying test flackyTest for the 1 time.
+]]></system-out>
+    <system-err><![CDATA[SLF4J(W): No SLF4J providers were found.
+SLF4J(W): Defaulting to no-operation (NOP) logger implementation
+SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
+]]></system-err>
+  </testcase>
+  <testcase name="testMethod[4567, inactive](2)" classname="testng.DataProviderTest" time="0.0">
+    <system-out><![CDATA[Test method executed 4567 with status inactive
+Running test 2
+Retrying test flackyTest for the 2 time.
+]]></system-out>
+  </testcase>
+  <testcase name="testMethod[1255, active](3)" classname="testng.DataProviderTest" time="0.001">
+    <system-out><![CDATA[Test method executed 1255 with status active
+Running test 3
+]]></system-out>
+  </testcase>
+  <testcase name="testMethod" classname="testng.SimpleTest" time="0.987"/>
+  <testcase name="testMethod2" classname="testng.SimpleTest" time="2.002">
+    <system-out><![CDATA[Running after each test method...
+Running before each test method...
+This is a simple test method.
+Thread ID: 57 name: TestNG-test-ParallelRegression-5
+]]></system-out>
+  </testcase>
+  <testcase name="testMethod3" classname="testng.SimpleTest" time="0.501">
+    <system-out><![CDATA[Running after each test method...
+Running before each test method...
+This is a simple test method.
+Thread ID: 57 name: TestNG-test-ParallelRegression-5
+]]></system-out>
+  </testcase>
+</testsuite>
