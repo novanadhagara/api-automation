@@ -3,7 +3,7 @@
 ## Setup Instructions
 
 1. Clone Repository
-git clone https://github.com/USERNAME/api-automation.git
+git clone https://github.com/novanadhagara/api-automation.git
 cd api-automation
 
 2. Install Dependencies
